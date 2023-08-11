@@ -42,6 +42,8 @@ class CaixaDaLanchonete {
             total += preco * quantidade;
         }
 
+        // Adicionar a verificação de principal + extra
+
         if (metodoDePagamento === 'dinheiro') {
             total *= 0.95; // desconto de 5%
         } else if (metodoDePagamento === 'credito') {
