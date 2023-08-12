@@ -53,11 +53,11 @@ class CaixaDaLanchonete {
 
         return this.formataValor(total);
     }
-
+    // formata os dados na saída
     formataValor(valor) {
         return "R$ " + valor.toFixed(2).replace('.', ',');
     }
-
+    // verifica a existência de itens extras no pedido
     possuiExtra(itens) {
         for (let i = 0; i < itens.length; i++) {
             let produto = itens[i].produto;

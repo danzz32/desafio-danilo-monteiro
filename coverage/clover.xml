@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1691850980993" clover="3.2.0">
-  <project timestamp="1691850980993" name="All files">
+<coverage generated="1691877733743" clover="3.2.0">
+  <project timestamp="1691877733743" name="All files">
     <metrics statements="108" coveredstatements="108" conditionals="42" coveredconditionals="41" methods="6" coveredmethods="6" elements="156" coveredelements="155" complexity="0" loc="108" ncloc="108" packages="1" files="1" classes="1"/>
     <file name="caixa-da-lanchonete.js" path="C:\Users\danil\Documents\VsCode\Desafio\desafio-danilo-monteiro\src\caixa-da-lanchonete.js">
       <metrics statements="108" coveredstatements="108" conditionals="42" coveredconditionals="41" methods="6" coveredmethods="6"/>
